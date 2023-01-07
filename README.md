@@ -6,6 +6,12 @@ Create a .env.local file with :
 
 REACT_APP_OPENAI_API_KEY={your key}
 
+start the app with npm start (you may need to run npm install after cloning the project) :) 
+
+# OpenAI API doc 
+
+OpenAI API docs are here : [OPEN AI DOCS](https://beta.openai.com/docs/introduction/next-steps). 
+
 
 # File
 
