@@ -12,6 +12,10 @@ REACT_APP_OPENAI_API_KEY={your key}
 The main code and the call to OpenAI API is in the App.js file. Feel free to change it as you want
 
 
+### Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ### `npm start`
 
 Runs the app in the development mode.\
