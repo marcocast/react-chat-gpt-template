@@ -20,7 +20,7 @@ function App() {
     // declare the data fetching function
     const fetchData = async () => {
       const response = await openai.createCompletion({
-        model: "text-curie-001",
+        model: "text-davinci-003",
         prompt: "Create sentence : " + input,
         temperature: 0.8,
         max_tokens: 500,
